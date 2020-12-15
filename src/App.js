@@ -126,7 +126,7 @@ function App() {
         ) : (
           <Box>
             <Text fontSize="2xl">
-              *This is an unofficial workbook for an{' '}
+              *This is an unofficial workbook for the{' '}
               <Link
                 color="blue.600"
                 href="https://youtu.be/BAzs3amtEFA"
@@ -150,10 +150,10 @@ function App() {
               width="max-content"
               p={2}
               fontSize="lg"
-              mt={3}
+              mt={6}
               fontWeight="bold"
             >
-              #thefuturwashere
+              #influencedbythefutur
             </Text>
           </Box>
         )}
